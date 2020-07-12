@@ -6,7 +6,7 @@ div_class: lead
 # subheading: Will Catch Your Eye
 # image: "http://placehold.it/500x500"
 ---
-<p><span style="color:red"><b>Notice:</b> Due to COVID-19, this tutorial will be virtual and accessible via the <a href="https://pheedloop.com/rss2020/virtual/">RSS portal</a> (Session WS1-3).</span></p>
+<!-- <p><span style="color:red"><b>Notice:</b> Due to COVID-19, this tutorial will be virtual and accessible via the <a href="https://pheedloop.com/rss2020/virtual/">RSS portal</a> (Session WS1-3).</span></p> -->
 
 <!-- **Notice: Due to COVID-19, this tutorial will be virtual and accessible via the RSS Portal (Session WS1-3).** -->
 
