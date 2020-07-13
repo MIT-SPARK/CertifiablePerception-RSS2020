@@ -15,4 +15,4 @@ div_class: lead
 | 11:30-11:40 | Break |   |
 | 11:40-12:15 | Outlier-Robust Geometric Understanding: Algorithms and Provable Guarantees |  [Tat-Jun Chin](https://cs.adelaide.edu.au/~tjchin/doku.php)  |
 | 12:15-12:25 | Break | |
-| 12:25-13:00 | Certifiably Robust Geometric Perception with Outliers| [Heng Yang](https://hankyang.mit.edu) |
+| 12:25-13:00 | [Certifiably Robust Geometric Perception with Outliers](https://www.dropbox.com/s/va7et1eiovsbnow/Certifiably_Robust_Perception_RSS2020WS_Yang.pdf?dl=0) | [Heng Yang](https://hankyang.mit.edu) |
