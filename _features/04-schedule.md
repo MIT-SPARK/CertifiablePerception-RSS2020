@@ -9,7 +9,7 @@ div_class: lead
 | Time   |      Topic      |  Speaker |
 |:-----------:|:-----------------------------------------------------:|:------:|
 | 10:00-10:10 |  Arrival and Welcome |  |
-| 10:10-10:45 |  An Introduction to Global Optimization, Convex Relaxations and Strong Duality.   | [Anders Eriksson](http://aeriksson.net) |
+| 10:10-10:45 |  [An Introduction to Global Optimization, Convex Relaxations and Strong Duality](https://www.dropbox.com/s/c5kmr5p68a9xklo/Intro_Global_Optimization_Convex_Relaxation_Duality_Eriksson.pdf?dl=0)   | [Anders Eriksson](http://aeriksson.net) |
 | 10:45-10:55 | Break | |
 | 10:55-11:30 | Convex Relaxations for Certifiable Perception: Fast and Exact Global Optimality | [Luca Carlone](https://lucacarlone.mit.edu)  |
 | 11:30-11:40 | Break |   |
