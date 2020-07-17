@@ -6,7 +6,7 @@ div_class: lead
 # subheading: Will Seal the Deal.
 ---
 
-| Time   |      Topic      |  Speaker |
+| Time   |      Topic (with slides)      |  Speaker |
 |:-----------:|:-----------------------------------------------------:|:------:|
 | 10:00-10:10 |  [Arrival and Welcome](https://www.dropbox.com/s/ptul3xm83vyzyko/welcome_intro_Carlone.pdf?dl=0) |  |
 | 10:10-10:45 |  [An Introduction to Global Optimization, Convex Relaxations and Strong Duality](https://www.dropbox.com/s/c5kmr5p68a9xklo/Intro_Global_Optimization_Convex_Relaxation_Duality_Eriksson.pdf?dl=0)   | [Anders Eriksson](http://aeriksson.net) |
